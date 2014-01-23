@@ -1,7 +1,7 @@
-unity3Dtemplate
+CSC404 Unity Sandbox Repo
 ===============
 
-git template for unity 3d
+Hello Team 7, this is a repo for you to play around with. Let's test out unity with git and what-else-ever that needs to be tested.
 
 
 Setup
